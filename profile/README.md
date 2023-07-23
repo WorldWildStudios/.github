@@ -15,7 +15,7 @@ We are not only here to make you software, we can also satisfy your customers or
 
 * [WW-Auth](https://github.com/WorldWild-Studios/WW-Auth) - A website to make account management and authentication easier.
 * [WW-Docs](https://github.com/WorldWild-Studios/WW-Docs) - A website to make beautiful documentations in simple clicks.
-* [MCStatus](https://mcstatus.worldwild.studio) - A website to make status pages.
+* [MCStatus](https://mcstatus.worldwild.studio) - A website to make Minecraft server status pages.
 * **Third party projects**
 * * [NekoNya](https://nekonya.classy.works) - A website about anime and nekos, gets you some random anime pictures, and more.
 * * [HuskyBot](https://huskybot.worldwild.studio) - A Discord bot that can do a lot of things, like moderation, fun, and more.
